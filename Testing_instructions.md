@@ -22,7 +22,7 @@ Executors are users able to execute tasks that are created by creators. Executor
 
 ### *Installing CommonTasker*
 
-Please find the ,apk file and download it to your smartphone. It will be installed automatically. 
+Please find the app-debug.apk file and download it to your smartphone. It will be installed automatically. 
 
 1. Verify whether the application has been installed successfully or not. 
 
