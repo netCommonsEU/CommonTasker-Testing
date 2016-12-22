@@ -4,7 +4,7 @@
 
 
 ### *CommonTasker architecture*
-CommonTasker is a mobile crowdsourcing application developed for the purposes of the project netcommons in the contect of Community Networks. The current version of the application uses an online platform for handling its database. Checking the UI and the design
+CommonTasker is a mobile crowdsourcing application developed for the purposes of the project netcommons in the context of Community Networks. The current version of the application uses an online platform for handling its database. Checking the UI and the design
 of the application are the most important steps at this stage. 
 
 The structure consists of the entities shown in the Figure. By using CommonTasker, users of the app are able to create different types of tasks and execute them. Tasks can be errands, questions or objects. 
